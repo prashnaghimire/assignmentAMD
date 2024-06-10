@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830331672184",
+    "project_id": "assignment-ad2024",
+    "storage_bucket": "assignment-ad2024.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830331672184:android:274ef450c028a1ca073f8d",
+        "android_client_info": {
+          "package_name": "np.edu.ismt.assignment_ad2024"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHtXHye6i_r_IW675aduS7FvQQ2ThL1oU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
